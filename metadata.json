@@ -1,0 +1,6 @@
+{
+  "name": "Micoder Studio",
+  "description": "Professional studio-grade microphone recording with dedicated mic profiles, real-time DSP noise suppression, and lossless audio capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
